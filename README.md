@@ -1,5 +1,5 @@
-# RNAnalyze-python
-## Frequency RNAnalyzer
+# sRNA-tool-kit-python
+## Frequency Analyzer
 
 Takes an arbitrary number of input files and analyzes there word frequencies.
 
@@ -7,13 +7,13 @@ Takes an arbitrary number of input files and analyzes there word frequencies.
 
 Run 
 ```
-py RNAnalyzer.py outputFile.path input1.file input2.file inputN.file
+py FrequencyAnalyzer.py outputFile.path input1.file input2.file inputN.file
 ```
 in console.
 
 For Example:
 ```
-py RNAnalyzers.py output.csv sel1-1_S2.input sel1-1_S9.input
+py FrequencyAnalyzer.py output.csv sel1-1_S2.input sel1-1_S9.input
 ```
 
 
